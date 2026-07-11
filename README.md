@@ -5,7 +5,7 @@
 - `hdl/axi_writer.sv` — IP-ядро.
 - `tb/axi_writer_tb.sv` — тестбенч.
 - `tb/axi_ram.v` — AXI4 RAM (Alex Forencich).
-- `constraints/timing.xdc` — задание тактовой частоты 100 VUц в соответствии с заданием
+- `constraints/timing.xdc` — задание тактовой частоты 100 МГц в соответствии с заданием
 - `scripts/create_project.tcl` — создание проекта Vivado
 
 ## Примечания
